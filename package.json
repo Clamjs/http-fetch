@@ -1,0 +1,25 @@
+{
+  "name": "http-fetch",
+  "version": "1.0.0",
+  "description": "Fetch source with your http request but delegate some other url",
+  "main": "./lib/fetch.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lichenhao/http-fetch"
+  },
+  "keywords": [
+    "fetch",
+    "http"
+  ],
+  "dependencies": {
+    "mace": "~1.0.0"
+  },
+  "author": "lichenhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lichenhao/http-fetch/issues"
+  },
+  "homepage": "https://lichenhao.github.io/http-fetch",
+  "readmeFile": "README.md"
+}
